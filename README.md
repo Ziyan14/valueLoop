@@ -46,9 +46,4 @@ You can upload a prebuilt `order_fact` CSV in the app. Expected columns:
 - `metrics.py`: data prep + retention/LTV/churn scoring logic
 - `archive/`: included Kaggle dataset (Olist)
 
-## Resume bullets (copy/paste)
-
-- Built **ValueLoop**, a retention + LTV analytics dashboard that converts raw orders into **cohort retention**, **LTV segmentation**, and **next-best-action** customer targeting.
-- Implemented an analysis-ready **orders fact table** from multi-table Kaggle e-commerce data, enabling repeat purchase metrics and cohort tracking.
-- Delivered an explainable **churn-risk scoring** system (RFM-style) and actionable winback/VIP recommendations in a Streamlit app.
 
