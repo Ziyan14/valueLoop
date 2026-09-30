@@ -4,7 +4,10 @@
 
 Built in Python with pandas, Plotly, and Streamlit. This version runs on the public [Olist Brazilian E-Commerce dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce); you can also upload your own order data.
 
-<!-- Add 1–2 dashboard screenshots here: edit this file on GitHub and drag the images in -->
+<img width="1216" height="527" alt="Screenshot 2026-09-30 at 3 52 58 PM" src="https://github.com/user-attachments/assets/b779e6cc-7eae-4742-8955-6a3a983857b3" />
+
+<img width="1466" height="835" alt="Screenshot 2026-09-30 at 3 53 36 PM" src="https://github.com/user-attachments/assets/e7ed0659-904f-493b-8f30-03401ff492eb" />
+
 
 ## What it does
 
